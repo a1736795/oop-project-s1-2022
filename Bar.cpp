@@ -1,3 +1,5 @@
+#include<iostream>
+#include<string>
 #include "Bar.h"
 
 Bar::Bar() {

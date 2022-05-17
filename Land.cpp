@@ -1,6 +1,9 @@
+#include<iostream>
+#include<string>
 #include "Land.h"
 
-Land::Land() {
+Land::Land() 
+{
     body->setFillColor(sf::Color::Green);
 }
 
